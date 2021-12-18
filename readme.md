@@ -1,7 +1,7 @@
 <div align="center">
 	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
-	<h3><a href="https://www.producthunt.com/posts/pandan">My macOS app Pandan is on Product Hunt</a></h3>
-	<br>
+	<h3>Shamelessly cherry-picked from the <a href="https://github.com/sindresorhus/awesome">Amazing Work</a> by <a href="https://github.com/sindresorhus">sindresorhus</a>. This list is edited to serve as my personal list. Please check the original work for complete list.</h3>
+<!-- 	<br>
 	<br>
 	<br>
 	<hr>
@@ -107,10 +107,10 @@
 	<br>
 	<br>
 	<br>
-	<br>
+	<br> -->
 </div>
 
-<p align="center">
+<!-- <p align="center">
 	<a href="awesome.md">What is an awesome list?</a>&nbsp;&nbsp;&nbsp;
 	<a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
 	<a href="create-list.md">Creating a list</a>&nbsp;&nbsp;&nbsp;
@@ -128,7 +128,7 @@
 
 <p align="center">
 	<sub>Just type <a href="https://awesome.re"><code>awesome.re</code></a> to go here. Check out my <a href="https://blog.sindresorhus.com">blog</a> and follow me on <a href="https://twitter.com/sindresorhus">Twitter</a>.</sub>
-</p>
+</p> -->
 <br>
 
 ## Contents
